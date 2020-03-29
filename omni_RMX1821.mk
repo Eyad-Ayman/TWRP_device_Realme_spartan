@@ -3,11 +3,11 @@ $(call inherit-product, build/target/product/embedded.mk)
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
-PRODUCT_DEVICE := F1
-PRODUCT_NAME := omni_F1
-PRODUCT_BRAND := UMIDIGI
-PRODUCT_MODEL := F1
-PRODUCT_MANUFACTURER := A-gold
+PRODUCT_DEVICE := Realme 3
+PRODUCT_NAME := omni_RMX1821
+PRODUCT_BRAND := Realme
+PRODUCT_MODEL := RMX1821
+PRODUCT_MANUFACTURER := Oppo
 
 # ADB Fix
 PRODUCT_PROPERTY_OVERRIDES += \
