@@ -1,4 +1,4 @@
-DEVICE_PATH := device/umidigi/F1
+DEVICE_PATH := device/Realme/RMX1821
 
 # Architecture
 TARGET_ARCH := arm64
@@ -58,8 +58,8 @@ TW_EXTRA_LANGUAGES := true
 TW_INCLUDE_NTFS_3G := true
 TW_USE_TOOLBOX := true
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
-TW_MAX_BRIGHTNESS := 255
-TW_DEFAULT_BRIGHTNESS := 120
+TW_MAX_BRIGHTNESS := 2047
+TW_DEFAULT_BRIGHTNESS := 1040
 TW_Y_OFFSET := 80
 TW_H_OFFSET := -80
 TWRP_INCLUDE_LOGCAT := true
