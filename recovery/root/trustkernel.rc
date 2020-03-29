@@ -60,4 +60,4 @@ service teed /sbin/teed \
 	user root
 	group root
     disabled
-    seclabel u:r:recovery:s0
+    seclabel u:r:recovery:s
