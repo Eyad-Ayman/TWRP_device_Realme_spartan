@@ -5,4 +5,11 @@ TWRP STABLE TREE For Realme 3 RMX1821/RMX1825 (spertan)
 
 • mtp works 
 
+• OZIP support
+
 • another things works good
+
+• android 10 support 
+________________________________
+~ BUGS NONE ~
+
