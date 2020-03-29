@@ -5,4 +5,4 @@ TWRP STABLE TREE For Realme 3 RMX1821/RMX1825 (spertan)
 
 • mtp works 
 
-• another things worka good
+• another things works good
